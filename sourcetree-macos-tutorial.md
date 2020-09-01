@@ -29,7 +29,7 @@ Download [Sourcetree](https://www.sourcetreeapp.com), Install and open it.
 
 You should see the "Sourcetree" modal dialog.
 
-<img style="float: right;" src="assets/sourcetree-1-main.png" alt="SourceTree Main" />
+<img style="float: right;" src="assets/sourcetree-1-main.png" alt="SourceTree Profile" />
 
 From here, you want to click on Remote. If this is the first installation, then you likely haven't connected your GitHub account yet. Do so by clicking the "Connect Button".
 
