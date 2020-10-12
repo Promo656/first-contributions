@@ -100,11 +100,11 @@ Roshan Jossey wird nun deine Änderungen in den Master Branch dieses Projekts me
 
 Glückwunsch! Du hast so eben den Standard-Workflow *Fork -> Clone -> Edit -> Pull Request* beendet, der dir als Mitwirkender häufig begegnen wird.
 
-Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-App](https://firstcontributions.github.io/#social-share).
+Feiere deinen Beitrag zum Projekt und teile ihn mit deinen Freunden und Followern über unsere [Web-AppWithReducers](https://firstcontributions.github.io/#social-share).
 
 Wenn du weitere Fragen hast, kannst du Mitglied in unserem Slack-Team werden. [Join Slack Team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-App](https://firstcontributions.github.io/#project-list).
+Falls du jetzt zu anderen Projekten beitragen möchtest, dann haben wir für dich eine Liste von einfachen, ersten Issues zusammengestellt, an denen du arbeiten kannst. Diese Projekt-Liste findest du [in unserer Web-AppWithReducers](https://firstcontributions.github.io/#project-list).
 
 ## Tutorials mit anderen Tools
 
